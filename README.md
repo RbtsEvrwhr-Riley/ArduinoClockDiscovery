@@ -1,6 +1,10 @@
 # ArduinoClockDiscovery
 Arduino Clockspeed Discovery Tool
 
+Author: MKB
+
+Published By: Robots Everywhere, LLC
+
 A simple sketch to figure out the actual frequency an arduino is trying to run at.
 
 Useful for cheap micro/nano boards that don't say on the silkscreen and use a tiny crystal that has no writing on it, or too small writing
